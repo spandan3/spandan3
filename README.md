@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Spandan Chakrabarty  
 
 I'm a Computer Science student at the **University of Waterloo**, passionate about **AI, full-stack development, and data-driven problem solving**.  
-I love building intelligent systems that bridge **machine learning** and **real-world user experiences** — from predictive models to interactive dashboards.  
+I love building intelligent systems that bridge **machine learning** and **real-world user experiences**, from predictive models to interactive dashboards.  
 
 ---
 
