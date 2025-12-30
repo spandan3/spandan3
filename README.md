@@ -33,10 +33,10 @@ A web app that classifies waste items (plastic, paper, metal, etc.) using a **Fa
 
 ---
 
-### 🏎️ [F1 Race Prediction & Analytics (WIP)](https://github.com/spandan3/f1-project)  
+### 🏎️ [F1 Race Prediction & Analytics)](https://github.com/spandan3/f1-project)  
 A full-stack ML system that predicts Formula 1 race outcomes using **FastF1 telemetry data** and **LightGBM ranking models**.  
 - Interactive React dashboard for performance insights and visualization  
-- Future roadmap: **FastAPI backend** + **RAG chat assistant** with FAISS/Qdrant  
+- **FastAPI backend** + **RAG chat assistant** with FAISS/Qdrant  
 
 ---
 
