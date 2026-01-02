@@ -37,6 +37,7 @@ A web app that classifies waste items (plastic, paper, metal, etc.) using a **Fa
 A full-stack ML system that predicts Formula 1 race outcomes using **FastF1 telemetry data** and **LightGBM ranking models**.  
 - Interactive React dashboard for performance insights and visualization  
 - **FastAPI backend** + **RAG chat assistant** with FAISS/Qdrant  
+🔗 [Live Demo](https://predict-f1.vercel.app/)
 
 ---
 
