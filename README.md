@@ -16,7 +16,6 @@ I love building intelligent systems that bridge **machine learning** and **real-
 ---
 
 ## 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/spandanchakrabarty/)  
-🐙 [GitHub](https://github.com/spandan3)
+💼 [LinkedIn](https://www.linkedin.com/in/spandanchakrabarty/) 
 
 ---
